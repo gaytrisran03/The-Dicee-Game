@@ -7,7 +7,7 @@ Welcome to the Random Dice Roll Website repository! This website allows you to s
 -------------------
 
 The Random Dice Roll Website provides a fun and interactive way to roll two dice and see the results in real-time. It uses JavaScript to generate random numbers between 1 and 6 for each dice, simulating the roll. The website's simple and intuitive design makes it easy for users to interact with the dice and enjoy a virtual dice game experience.
-![dicee](di
+![dicee](dice.png)
 
 ## Key Features
 -------------------
